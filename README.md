@@ -1,3 +1,5 @@
+![preview](screenshots/initial.png)
+
 # Instructions
 
 Fork this repository and clone it to start working.
