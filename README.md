@@ -84,6 +84,8 @@ On form submission, the form is cleared and the newly created deck can be played
 
 Redux persist: https://github.com/rt2zz/redux-persist#basic-usage
 
+[Styled-components vscode package](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
+
 Note about redux and nested objects:  
 Remember to not modify the app state directly, make a copy first!  
 Example - Trying to remove the first element using splice without modifying the original array:
