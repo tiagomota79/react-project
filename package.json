@@ -1,7 +1,7 @@
 {
-  "name": "webpack-react-tutorial",
+  "name": "react-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "React and Redux project for the DecodeMTL Bootcamp",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --open --mode development",
